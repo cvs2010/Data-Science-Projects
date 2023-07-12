@@ -13,7 +13,6 @@ import re
 import requests
 import math
 from numpy.lib.function_base import quantile
-%tensorflow_version 2.x
 import tensorflow as tf
 import pandas as pd
 import numpy as np
