@@ -1,22 +1,9 @@
 # Importando as bibliotecas
 import os
-import bs4
-from bs4 import BeautifulSoup
-import urllib.request as urllib_request
-from urllib.request import Request, urlopen, urlretrieve
-from urllib.request import Request, urlopen
-from urllib.error import URLError, HTTPError
-import urllib.parse
 import pandas as pd
-import re
-import requests
-import math
-from numpy.lib.function_base import quantile
 import tensorflow as tf
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut
 import streamlit
