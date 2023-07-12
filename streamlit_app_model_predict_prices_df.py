@@ -16,7 +16,7 @@ st.text_input("placeholder text","default value")
 
 #load model, set cache to prevent reloading
 model = tf.keras.models.load_model('model.h5')
-return model
+print(model)
 
 with st.spinner("Loading Model...."):
     model=load_model()
