@@ -1,11 +1,8 @@
 # Importando as bibliotecas
 import os
 import pandas as pd
-
 import pandas as pd
 import numpy as np
-from geopy.geocoders import Nominatim
-from geopy.exc import GeocoderTimedOut
 import streamlit
 
 #Write Title
