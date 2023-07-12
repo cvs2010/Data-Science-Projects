@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import pandas as pd
 import numpy as np
-import streamlit
+import streamlit as st
 
 #Write Title
 st.title("Title")
