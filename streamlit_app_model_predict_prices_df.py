@@ -21,6 +21,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut
+import streamlit
 
 #Write Title
 st.title("Title")
