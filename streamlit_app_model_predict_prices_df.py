@@ -1,6 +1,5 @@
 # Importando as bibliotecas
 import os
-import gdown
 import bs4
 from bs4 import BeautifulSoup
 import urllib.request as urllib_request
