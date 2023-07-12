@@ -1,7 +1,7 @@
 # Importando as bibliotecas
 import os
 import pandas as pd
-!pip install tensorflow
+pip install tensorflow
 import tensorflow as tf
 import pandas as pd
 import numpy as np
