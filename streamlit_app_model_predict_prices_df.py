@@ -1,11 +1,9 @@
 # Importando as bibliotecas
 import os
 import pandas as pd
-import pandas as pd
 import numpy as np
 import streamlit as st
-import tensorflow as tf
-from tensorflow import keras
+import joblib
 
 #Write Title
 st.title("Title")
