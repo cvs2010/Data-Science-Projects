@@ -1,5 +1,5 @@
 # DeepLearning
-Repositório destinado aos meus Projetos na área de DeepLearning e Inteligência Artificial
+Repositório destinado aos meus Projetos na área de Data Science e Inteligência Artificial
 
 Repository for my projects in DeepLearning and Artificial Intelligence
 
