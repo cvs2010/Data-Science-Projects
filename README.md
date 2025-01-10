@@ -1,4 +1,4 @@
-# DeepLearning
+# DataScience
 Repositório destinado aos meus Projetos na área de Data Science e Inteligência Artificial
 
 Repository for my projects in Data Science and Artificial Intelligence
